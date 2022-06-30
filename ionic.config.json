@@ -1,0 +1,7 @@
+{
+  "name": "pr-one",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
