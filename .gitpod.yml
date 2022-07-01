@@ -4,6 +4,6 @@
 
 tasks:
   - init: npm install && npm i -g @ionic/cli @angular/cli firebase-tools
-    command: firebase login --no-localhost
+    command: cd functions && npm i && cd ../ && firebase login --no-localhost
 
 
